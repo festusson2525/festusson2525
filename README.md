@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Emperor_Knight♞
-- 👀 I’m interested in Coding👨🏻‍💻
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m Godstime Omosheyi Festus - GOF {Knight♞}
+- 🌱 I’m currently learning pyhton and R
 - 💞️ I’m looking to collaborate on all platform
-- 📫 you can reach me on twitter @iam_toughcoder
-
+- 📫 you can reach me on twitter @godstimefestus_
